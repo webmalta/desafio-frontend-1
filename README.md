@@ -19,15 +19,15 @@ Avaliaremos se:
 * O Dev utilizou ferramentas como Webpack, Gulp, Grunt, SCSS, Babel ou afins para facilitar e acelerar o desenvolvimento (Não é obrigatório).
 * O Dev se preocupou em organizar o CSS, pois acreditamos que o CSS é tão importante quanto o JS. É sério.
 
-***ATENÇÃO**: Não estamos esperando que você seja um Ninja e que vá surpreender em todos os quesitos. Estamos muito mais interessados em saber qual a sua capacidade como desenvolvedor. Você pode por exemplo ser muito bom com CSS e não muito bom com JS, ou o contrátrio. Isso não quer dizer que você não esteja apto para ser contratado. Queremos é saber o quão esforçado você é. Então use e abuse do bom senso. Se você acha que algo é importante de ser mostrado, mostre. É a sua chance de mostrar o que você sabe :)
+***ATENÇÃO**: Não estamos esperando que você seja um Ninja e que vá surpreender em todos os quesitos. Estamos muito mais interessados em saber qual a sua capacidade como desenvolvedor. Você pode por exemplo ser muito bom com CSS e não muito bom com JS, ou o contrário. Isso não quer dizer que você não esteja apto para ser contratado. Queremos é saber o quão esforçado você é. Então use e abuse do bom senso. Se você acha que algo é importante de ser mostrado, mostre. É a sua chance de mostrar o que você sabe :)
 
 Se tiver qualquer dúvida sobre o desafio, abra uma Issue neste mesmo repositório. Responderemos o mais rápido possível.
 
 ### Então, vamos ao teste, finalmente!
 
-Você terá que implementar uma lading page que possui uma feature para listar repositórios de um perfil qualquer do Github. Se acha que consegue fazer algo melhor em relação ao design, faça. Se acha que deve seguir exatamente como está no design, fique à vontade. O importante é que você mostre os seus conhecimentos da melhor forma possível, levando em conta o tempo que você terá para implementar este desafio.
+Você terá que implementar uma landing page que possui uma feature para listar repositórios de um perfil qualquer do Github. Se acha que consegue fazer algo melhor em relação ao design, faça. Se acha que deve seguir exatamente como está no design, fique à vontade. O importante é que você mostre os seus conhecimentos da melhor forma possível, levando em conta o tempo que você terá para implementar este desafio.
 
-Além de implemetar o design, você deve mostrar que consegue consumir uma API Rest. Escolhemos a [API do Github](https://developer.github.com/v3/) para isso. Fique à vontade para utilizar qualquer lib para acessar estes dados.
+Além de implementar o design, você deve mostrar que consegue consumir uma API Rest. Escolhemos a [API do Github](https://developer.github.com/v3/) para isso. Fique à vontade para utilizar qualquer lib para acessar estes dados.
 
 Tasks:
 
