@@ -21,6 +21,8 @@ Avaliaremos se:
 
 ***ATENÇÃO**: Não estamos esperando que você seja um Ninja e que vai surpreender em todos os quesitos. Estamos muito mais interessados em saber qual a sua capacidade como desenvolvedor. Você pode por exemplo ser muito bom com CSS e não muito bom com JS, ou o contrátrio. Isso não quer dizer que você não esteja apto para ser contratado. Queremos é saber o quão esforçado você é. Então use e abuse do bom senso. Se você acha que algo é importante de ser mostrado, mostre. É a sua chance de mostrar o que você sabe :)
 
+Se tiver qualquer dúvida sobre o desafio, abra uma Issue neste mesmo repositório. Responderemos o mais rápido possível.
+
 ### Então, vamos ao teste, finalmente!
 
 Você terá que implementar uma lading page que possui uma feature para listar repositórios de um perfil qualquer do Github, não necessariamente precisando se minucioso em fazer exatamente como no design. Se acha que consegue fazer algo melhor, faça. Se acha que deve seguir exatamente como está no design, fique à vontade. O importante é que você mostre os seus conhecimentos da melhor forma possível, levando em conta o tempo que você terá para implementar este desafio.
