@@ -64,4 +64,7 @@ Lading Page:
 Listagem de repositórios:
 ![Alt text](desafio2.jpg?raw=true "Feature")
 
-# Boa sorte :)
+
+Não se esqueça de abrir um Pull Request até que o tempo se esgote.
+
+** Boa sorte **
