@@ -19,7 +19,7 @@ Avaliaremos se:
 * O Dev utilizou ferramentas como Webpack, Gulp, Grunt, SCSS, Babel ou afins para facilitar e acelerar o desenvolvimento (Não é obrigatório).
 * O Dev se preocupou em organizar o CSS, pois acreditamos que o CSS é tão importante quanto o JS. É sério.
 
-***ATENÇÃO**: Não estamos esperando que você seja um Ninja e que vai surpreender em todos os quesitos. Estamos muito mais interessados em saber qual a sua capacidade como desenvolvedor. Você pode por exemplo ser muito bom com CSS e não muito bom com JS, ou o contrátrio. Isso não quer dizer que você não esteja apto para ser contratado. Queremos é saber o quão esforçado você é. Então use e abuse do bom senso. Se você acha que algo é importante de ser mostrado, mostre. É a sua chance de mostrar o que você sabe :)
+***ATENÇÃO**: Não estamos esperando que você seja um Ninja e que vá surpreender em todos os quesitos. Estamos muito mais interessados em saber qual a sua capacidade como desenvolvedor. Você pode por exemplo ser muito bom com CSS e não muito bom com JS, ou o contrátrio. Isso não quer dizer que você não esteja apto para ser contratado. Queremos é saber o quão esforçado você é. Então use e abuse do bom senso. Se você acha que algo é importante de ser mostrado, mostre. É a sua chance de mostrar o que você sabe :)
 
 Se tiver qualquer dúvida sobre o desafio, abra uma Issue neste mesmo repositório. Responderemos o mais rápido possível.
 
@@ -48,6 +48,14 @@ Dicas:
 * Quanto mais coisas legais você conseguir mostrar, melhor.
 * Relaxe, não esperamos que você seja um Ninja, mas se for, ótimo :)
 * Se divirta, pois esperamos que você faça isso no dia a dia caso seja contratado :)
+
+Será considerado como plus:
+
+* Implementar o design de forma responsiva.
+* Utilizar Webpack.
+* Utilizar SCSS.
+* Utilizar ES6+.
+* Componentizar a aplicação.
 
 Segue o design:
 
