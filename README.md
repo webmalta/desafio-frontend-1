@@ -38,6 +38,7 @@ Observações:
 
 * Os links do menu não precisam ser funcionais.
 * Você não precisa implementar páginas extras para os links que estão no design.
+* Os textos da landing page podem ser textos aleatórios como "Lorem ipsum".
 
 Dicas:
 
