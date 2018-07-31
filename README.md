@@ -33,6 +33,7 @@ Tasks:
 
 * Implementar o design mostrando sua experiência com HTML e CSS.
 * Implementar a funcionalidade de listar os repositórios e os repositórios favoritos de um perfil qualquer do Github.
+* Abrir um Pull Request para este repositório quando você terminar de implementar o desafio.
 
 Observações:
 
