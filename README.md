@@ -25,7 +25,7 @@ Se tiver qualquer dúvida sobre o desafio, abra uma Issue neste mesmo repositór
 
 ### Então, vamos ao teste, finalmente!
 
-Você terá que implementar uma lading page que possui uma feature para listar repositórios de um perfil qualquer do Github, não necessariamente precisando se minucioso em fazer exatamente como no design. Se acha que consegue fazer algo melhor, faça. Se acha que deve seguir exatamente como está no design, fique à vontade. O importante é que você mostre os seus conhecimentos da melhor forma possível, levando em conta o tempo que você terá para implementar este desafio.
+Você terá que implementar uma lading page que possui uma feature para listar repositórios de um perfil qualquer do Github. Se acha que consegue fazer algo melhor em relação ao design, faça. Se acha que deve seguir exatamente como está no design, fique à vontade. O importante é que você mostre os seus conhecimentos da melhor forma possível, levando em conta o tempo que você terá para implementar este desafio.
 
 Além de implemetar o design, você deve mostrar que consegue consumir uma API Rest. Escolhemos a [API do Github](https://developer.github.com/v3/) para isso. Fique à vontade para utilizar qualquer lib para acessar estes dados.
 
@@ -44,7 +44,6 @@ Observações:
 Dicas:
 
 * Faça o melhor que você pode no tempo que tem para entregar.
-* Não se preocupe em seguir o design à risca.
 * Quanto mais coisas legais você conseguir mostrar, melhor.
 * Relaxe, não esperamos que você seja um Ninja, mas se for, ótimo :)
 * Se divirta, pois esperamos que você faça isso no dia a dia caso seja contratado :)
