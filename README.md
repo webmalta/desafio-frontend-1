@@ -47,3 +47,8 @@ Dicas:
 
 Segue o design:
 
+Lading Page:
+![Alt text](desafio-front.jpg?raw=true "Landing Page")
+
+Listagem de repositórios:
+![Alt text](desafio2.jpg?raw=true "Feature")
