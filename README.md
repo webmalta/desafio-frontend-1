@@ -37,7 +37,7 @@ Tasks:
 
 Observações:
 
-* Os links do menu não precisam ser funcionais.
+* Os links do menu devem apenas fazer scroll da página para suas respectivas seções quando clicados.
 * Você não precisa implementar páginas extras para os links que estão no design.
 * Os textos da landing page podem ser textos aleatórios como "Lorem ipsum".
 
