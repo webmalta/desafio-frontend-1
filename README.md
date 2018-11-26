@@ -4,7 +4,7 @@ Olá Dev.
 
 Este repositório foi criado para que você possa nos mostrar o que sabe tecnicamente. Esperamos que você nos surpreenda com sua experiência e criatividade.
 
-O teste em si, é simples, esperamos que você mostre o que sabe independente de frameworks/libs famosos como React, VueJs e Angular. Então queremos que você utilize Vanilla em tudo, ou tudo o que for possível, ou seja, queremos que você implemente uma solução sem utilizar jQuery, Boostrap e afins. Queremos ver sua capacidade de criar algo sem a ajuda de facilitadores como o jQuery e o Bootstrap. Não o julgaremos mal se você optar por utilizar libs como lodash ou underscore para facilitar sua vida no JS, ou utilizar preprocessadores como SCSS, LESS, Stylus, Babel, etc. Para processar seu código. Até recomendamos que você os utilize. O bom senso será de extrema importância.
+O teste em si, é simples, esperamos que você mostre o que sabe independente de frameworks/libs famosos como React, VueJs e Angular. Então queremos que você utilize Vanilla em tudo, ou tudo o que for possível, ou seja, queremos que você implemente uma solução sem utilizar jQuery, Boostrap ou afins. Queremos ver sua capacidade de criar algo sem a ajuda de facilitadores como o jQuery ou o Bootstrap. Não o julgaremos mal se você optar por utilizar libs como lodash ou underscore para facilitar sua vida no JS, ou utilizar preprocessadores como SCSS, LESS, Stylus, Babel, etc. Para processar seu código. Até recomendamos que você os utilize. O bom senso será de extrema importância.
 
 Queremos que você nos mostre que consegue "sobreviver" sem Frameworks e tem criatividade suficiente para implementar suas próprias soluções ;)
 
@@ -31,7 +31,7 @@ Além de implementar o design, você deve mostrar que consegue consumir uma API 
 
 Tasks:
 
-* Implementar o design mostrando sua experiência com HTML e CSS.
+* Implementar o design mostrando sua experiência com HTML, JS e CSS.
 * Implementar a funcionalidade de listar os repositórios e os repositórios favoritos de um perfil qualquer do Github.
 * Abrir um Pull Request para este repositório quando você terminar de implementar o desafio.
 
@@ -54,7 +54,7 @@ Será considerado como plus:
 * Utilizar Webpack.
 * Utilizar SCSS.
 * Utilizar ES6+.
-* Componentizar a aplicação.
+* Componentizar a aplicação <3.
 
 Segue o design:
 
