@@ -1,0 +1,120 @@
+body { font-family: $font_1; }
+#home {
+    background: $color_3;
+    color: $color_1;
+    .topo {
+        padding: 20px;
+        h1 {
+            font-size: 14px;
+            float: left;
+        }
+    }
+    h2 {        
+        font-size: 45px;
+        margin-bottom:20px; 
+    }
+    h3 {
+        font-size: 25px;
+    }
+}
+
+#sobre {
+    background: $color_1;
+    h2 {
+        font-family: $font_1;
+        color: $color_3;
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+
+    p {
+        font-family: $font_1;
+        font-size: 14px;
+        line-height: 20px;
+    }
+}
+
+#desafio {
+    background: $color_2;
+    .fix { top:10% !important; }
+    h2 {
+        font-family: $font_1;
+        color: $color_4;
+        font-size: 35px;
+        margin-bottom: 30px;
+    }
+    .panel {     
+        padding: 40px 60px;
+        background: #fff;
+        margin: 0 10%;
+        img {
+            border-radius: 50%;
+            width: 120px;
+        }
+
+        .link_perfil {
+            color: $color_4;
+            font-family: 'Arial';
+            text-transform: uppercase;
+            font-size: 15px;
+            font-weight: bold;
+            text-decoration: none;
+            display: inline-block;
+            margin-top: 10px;
+        }
+
+        .descr {
+            margin-bottom: 10px;
+            span {
+                display: block;
+                text-align: left;
+                font-family: 'Arial';
+                font-size: 16px;
+                font-weight: bold;
+                color: $color_4;
+                margin-bottom: 14px;
+            }
+
+        }
+        .links {
+            margin-top: 10px;
+            display: inline-block;
+            a {
+                font-size: 14px;
+                color:$color_4;
+                padding:10px;
+                text-decoration: none;
+                border:2px solid $color_4;
+                opacity: 0.5;
+                &:hover { opacity: 1.0 }       
+            }
+        }
+
+        #repos {
+            margin-top: 20px;
+            display: block;
+            width: 100%;
+            h4 {
+                text-align: left;
+                color:$color_4;
+                font-family: 'Arial';
+                font-size: 20px;
+                text-transform: uppercase;
+                font-weight: bold;                        
+            }
+            .scroll {
+                overflow-y: scroll;
+                height: 160px;
+            }
+            ul.list {
+                margin-top: 20px;
+                li {
+                    font-size: 14px;
+                    color:$color_4;
+                    text-align: left;
+                    margin: 10px 4px;
+                }
+            }
+        }
+    }        
+}

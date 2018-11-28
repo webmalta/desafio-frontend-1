@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+    <title>Desafio FRONT-END</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="author" content="marcosmalta" />    
+    <link href="css/style.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+<section id="home">
+    <div class="topo">
+        <h1>MARCOS MALTA</h1>
+        <ul id="nav">
+            <li><a href="#home">HOME</a></li>
+            <li><a href="#sobre">SOBRE</a></li>
+            <li><a href="#desafio">DESAFIO</a></li>
+        </ul>
+        <div class="clear"></div>
+    </div>
+    <div class="fix">
+        <div>
+        <h2>Desafio Front-End</h2>
+        <h3>Qconcursos</h3>
+        </div>
+    </div>
+</section>
+
+<section id="sobre">
+    <div class="fix">
+        <div>
+        <h2>SOBRE</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum fringilla dapibus tortor eget efficitur. Nam non sapien non lacus volutpat pretium eget ac nulla. Vestibulum est enim, consectetur nec tincidunt at, iaculis quis nisi. Nullam sed dolor at orci auctor aliquam at id nibh. Duis luctus sodales feugiat. Aenean ut ultricies metus, eget suscipit diam. Quisque et orci vel nisl accumsan commodo. Vivamus consectetur enim a pretium ultrices. Integer nulla erat, finibus at est eu, pellentesque condimentum est. Fusce in lacus tempus, faucibus turpis sed, dignissim dolor. Mauris pharetra pulvinar dolor a luctus.</p>
+        <p>Etiam convallis risus eget risus ultrices tristique. Morbi facilisis tempor congue. Praesent sed nulla quis ligula elementum aliquet. Pellentesque porttitor ante ac lacus egestas lacinia. Mauris enim ipsum, rutrum quis augue sit amet, fringilla ullamcorper nulla. Aenean luctus quis felis sit amet vulputate. Curabitur id mi lorem. Maecenas posuere convallis nunc, feugiat placerat diam vehicula dictum.</p>
+        </div>
+    </div>
+</section>
+
+<section id="desafio">
+  <div class="fix">
+    <div>
+    <h2>Desafio</h2>
+    <div class="">
+    <div class="panel">    
+        <div class="fleft">
+            <div class="img-user"><img id="foto" src="" /></div>
+            <a class="link_perfil" href="" target="blank">Perfil</a>
+        </div>
+
+        <div class="fright">
+            <div class="descr">
+                <span class="nrepo"></span>
+                <span class="nseguidores"></span>
+                <span class="nseguindo"></span>
+            </div>
+            <div class="links">
+             <a href="#" onclick="clickRepos(); return false;">VER REPOSITORIOS</a>
+             <a href="#" onclick="clickFavoritos(); return false;">VER FAVORITOS</a>
+            </div>
+        </div>
+    <div class="clear"></div>
+    <div id="repos">
+        <h4></h4>
+        <div class="scroll">
+         <ul class="list"></ul>
+        </div>
+    </div>
+    </div>
+
+  </div>
+  </div>
+</section>
+
+<footer>
+    <h5>Desafio Desenvolvedor Front Qconcursos.com</h5>
+</footer>
+</body>
+
+<!-- libs JS -->
+<script src="node_modules/axios/dist/axios.js"></script>
+
+<!-- app JS -->
+<script src="js/app.js"></script>
+
+</html>

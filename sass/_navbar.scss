@@ -1,0 +1,14 @@
+#nav {
+    width: auto;
+    float:right;
+    li {
+        margin-right: 20px;
+        display: inline-block;
+        a {
+            font-family: Arial;
+            color:#fff;
+            text-decoration: none;
+            font-size: 13px;
+        }
+    }
+}
