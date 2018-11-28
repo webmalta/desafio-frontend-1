@@ -27,7 +27,7 @@
     axios.get('https://api.github.com/users/webmalta')
     .then(function(result) {
         foto_perfil.src = result.data.avatar_url;
-        link_perfil.href = result.data.url;
+        link_perfil.href = result.data.html_url;
         num_repo.innerText = 'REPOSITÓRIOS '+ result.data.public_repos;
         num_seguidores.innerText = 'SEGUIDORES '+ result.data.followers;
         num_seguindo.innerText = 'SEGUINDO '+ result.data.following;        
